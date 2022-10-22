@@ -1,20 +1,28 @@
 body{
-  font-family:Arial, Helvetica, sans-serif
+
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
 }
+
 
 .para,
 .small-para {
-  color: hsl(0, 0%, 0%);
+  color: yellowgreen;
   font-weight: 800;
+  
 }
 
 .small-para {
-  font-size: 14px;
+  
   font-weight: 800;
+  font-size:  18px;
+  
 }
 
 .para {
-  font-size: 22px;
+  font-size: 24px;
+  color: antiquewhite;
+  
 }
 
 .confirm {
@@ -32,11 +40,11 @@ body{
 .child {
   color: rgb(0, 0, 0);
   font-weight: 800;
-  font-size: 14px;
+  font-size: 35px;
 }
 
 div.text {
   color: rgb(0, 0, 0);
-  font-size: 22px;
-  font-weight: 100;
+  font-size: 48px;
+  font-weight: bold;
 }
